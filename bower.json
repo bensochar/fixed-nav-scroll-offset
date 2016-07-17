@@ -1,0 +1,20 @@
+{
+  "name": "sass-anchor-offset",
+  "homepage": "https://github.com/bensochar/sass-anchor-offset",
+  "authors": [
+    "ben sochar <bsochar@gmail.com>"
+  ],
+  "description": "SASS Mixin to offsets window scroll on anchored elements",
+  "main": "sass/sass-anchor-offset.scss",
+  "keywords": [
+    "SASS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
